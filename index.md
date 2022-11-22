@@ -1,4 +1,4 @@
 # HidroSOStoneFruit
 
-<img src="Logos.jpg" style="zoom:100%;" />
+<img src="Logos.png" style="zoom:100%;" />
 
