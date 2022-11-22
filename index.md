@@ -1,5 +1,4 @@
 # HidroSOStoneFruit
 
+<img src="Logos.jpg" style="zoom:100%;" />
 
-
-This is the project
