@@ -8,6 +8,8 @@
 
 <img src="Albaricoque.png" style="zoom:25%;" />
 
+> **Investigadores**: [Francisca Hernández García](https://www.umh.es/contenido/pas/:persona_4146/datos_es.html), [Esther Sendra Nadal](https://www.umh.es/contenido/Estudios/:persona_4100/datos_es.html), [Francisco Miguel Burló Carbonell](https://www.umh.es/contenido/Estudios/:persona_5298/datos_es.html), [Rafael Martínez Font](https://www.umh.es/contenido/PDI/:persona_5485/datos_es.html), [David Bernardo López Lluch](https://www.umh.es/contenido/pas/:persona_5401/datos_es.html), [Antonio José Signes Pastor](https://www.umh.es/contenido/Estudios/:persona_120071/datos_es.html?clase=:PI) y [Luis Noguera Artiaga](https://www.umh.es/contenido/Investigacion/:persona_163965/datos_es.html).
+
 <span style="color:black">**Resumen:**</span>
 
 El  objetivo global de esta expresión de interés se centra en el estudio y  optimización de las necesidades hídricas del cultivo del albaricoque, como  frutal de hueso, con el fin de: (i) reducir la huella hídrica y, (ii) mejorar  la calidad funcional de los frutos. Una gestión sostenible de los recursos  naturales tales como el agua agrícola es un reto actual. Es esperable que la  restricción hídrica aplicada al cultivo del albaricoque durante periodos  fenológicos clave desencadene la generación de metabolitos secundarios como  respuesta al estrés fomentando las propiedades funcionales del fruto. La  evidencia generada permitirá un avance significativo para la obtención de  frutos de hueso más sanos y saludables producidos en un entorno  hidroSoStenible con creciente demanda de mercado.
