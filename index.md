@@ -28,3 +28,12 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 [Descargar presentación](https://drive.google.com/file/d/1ZcYdupeW4l7V0tbv4lo0LQ9YpzzTeBTP/view?usp=share_link)
 
+<br/>
+
+---
+
+<br/>
+
+> Documentación de interés
+>
+> [Reglamentos](https://drive.google.com/drive/folders/1l3JqbgNMCD1mjzWLBqguUnrIbWdYx2jE?usp=share_link)
