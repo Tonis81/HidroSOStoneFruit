@@ -18,11 +18,11 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 **Fecha de inicio**: 01 de septiembre de 2022. **Fecha fin**: 29 de junio de 2025.
 
-* 1^er^ año: 01 de septiembre 2022 al 31 agosto 2023. 
+* *1er año*: 01 de septiembre 2022 al 31 agosto 2023. 
 
-* 2º año: 01 de septiembre 2023 al 31 agosto 2024. 
+* *2º año*: 01 de septiembre 2023 al 31 agosto 2024. 
 
-* 3^er^ año: 01 septiembre 2024 al 29 junio 2025.
+* *3er año*: 01 septiembre 2024 al 29 junio 2025.
 
 <br/>
 
