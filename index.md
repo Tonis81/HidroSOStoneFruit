@@ -47,3 +47,5 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 > Documentación de interés
 >
 > [Reglamentos](https://drive.google.com/drive/folders/1l3JqbgNMCD1mjzWLBqguUnrIbWdYx2jE?usp=share_link)
+>
+> [Agradecimientos](https://drive.google.com/file/d/1u8ZiokyU7YGBqFYsj6mZOvPZUL5kvQgW/view?usp=share_link)
