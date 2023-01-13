@@ -19,10 +19,24 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 **Fecha de inicio**: 01 de septiembre de 2022. **Fecha fin**: 29 de junio de 2025.
 
 * *1er año*: 01 de septiembre 2022 al 31 agosto 2023. 
-
 * *2º año*: 01 de septiembre 2023 al 31 agosto 2024. 
-
 * *3er año*: 01 septiembre 2024 al 29 junio 2025.
+
+
+
+<br/>
+
+---
+
+<br/>
+
+<span style="color:red">**Fotos de campo**</span> 
+
+<span style="color:blue">**5/29 Diciembre 2022**</span>
+
+<img src="Fotos campo_1.png" style="zoom:80%;" />
+
+A) Fila de árboles; B) Inserción de tapón; C) Barrillo tubo
 
 <br/>
 
