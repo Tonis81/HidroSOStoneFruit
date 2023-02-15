@@ -32,7 +32,7 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <span style="color:red">**Fotos de campo**</span> 
 
-<span style="color:blue">**15 Enero 2022**</span>
+<span style="color:blue">**13 Enero 2022**</span>
 
 <img src="Detalles frontales y filas arboles.png" style="zoom:80%;" />
 
