@@ -34,7 +34,7 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <span style="color:blue">**19 Abril 2023**</span>
 
-<img src="Visita Campo.png" style="zoom:80%;" />
+<img src="Visita Campo.png" style="zoom:100%;" />
 
 <br/>
 
