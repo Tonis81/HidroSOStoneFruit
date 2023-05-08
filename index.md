@@ -28,7 +28,7 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <br/>
 
-<span style="color:red">****1º WORKSHOP AGROALNEXT GENERALITAT VALENCIANA SOBRE PRODUCCIÓN PRIMARIA SOSTENIBLE Y TRANSICIÓN ECOLÓGICA****</span> 
+<span style="color:red">**1º WORKSHOP AGROALNEXT GENERALITAT VALENCIANA SOBRE PRODUCCIÓN PRIMARIA SOSTENIBLE Y TRANSICIÓN ECOLÓGICA**</span> 
 
 <span style="color:blue">**04 May 2023**</span>
 
