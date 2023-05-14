@@ -22,6 +22,20 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 * *2º año*: 01 de septiembre 2023 al 31 agosto 2024. 
 * *3er año*: 01 septiembre 2024 al 29 junio 2025.
 
+
+
+<br/>
+
+---
+
+<br/>
+
+<span style="color:red">**Recoleción de los melocotones**</span> 
+
+<span style="color:blue">**12 May 2023**</span>
+
+<img src="Recolección de melocotones.png" style="zoom:110%;" />
+
 <br/>
 
 ---
