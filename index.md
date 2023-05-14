@@ -36,6 +36,8 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 [Programa](https://drive.google.com/file/d/16dKxWffwhmC3MTF5YryCTGMZxVaPUP25/view?usp=share_link)
 
+[Video presentación "Estrategias HidroSOStenibles en frutales de hueso: Caso a estudio el albaricoque" ](https://www.youtube.com/watch?v=k209ILBVzlQ&list=PLClKgnzRFYe4aSBzNN3_WPfsPAIlW5iBg&index=7)
+
 <br/>
 
 ---
