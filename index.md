@@ -30,6 +30,18 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <br/>
 
+<span style="color:red">**Evaluación de la fruta**</span> 
+
+<span style="color:blue">**15 May 2023**</span>
+
+<img src="Evaluación de la fruta.png" style="zoom:110%;" />
+
+<br/>
+
+---
+
+<br/>
+
 <span style="color:red">**Recoleción de los melocotones**</span> 
 
 <span style="color:blue">**12 May 2023**</span>
@@ -70,9 +82,23 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <br/>
 
+<span style="color:red">**Reunión investigadores del proyecto**</span> 
+
+<span style="color:blue">**02 Marzo 2023**</span>
+
+<img src="Meeting researcher marzo.jpg" style="zoom:80%;" />
+
+
+
+<br/>
+
+---
+
+<br/>
+
 <span style="color:red">**Fotos de campo**</span> 
 
-<span style="color:blue">**13 Enero 2022**</span>
+<span style="color:blue">**13 Enero 2023**</span>
 
 <img src="Detalles frontales y filas arboles.png" style="zoom:80%;" />
 
