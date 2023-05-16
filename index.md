@@ -32,7 +32,7 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <span style="color:red">**Evaluación de la fruta**</span> 
 
-<span style="color:blue">**15 May 2023**</span>
+<span style="color:blue">**15 Mayo 2023**</span>
 
 <img src="Evaluación de la fruta.png" style="zoom:110%;" />
 
@@ -44,7 +44,7 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <span style="color:red">**Recoleción de los melocotones**</span> 
 
-<span style="color:blue">**12 May 2023**</span>
+<span style="color:blue">**12 Mayo 2023**</span>
 
 <img src="Recolección de melocotones.png" style="zoom:110%;" />
 
@@ -56,7 +56,7 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <span style="color:red">**1º WORKSHOP AGROALNEXT GENERALITAT VALENCIANA SOBRE PRODUCCIÓN PRIMARIA SOSTENIBLE Y TRANSICIÓN ECOLÓGICA**</span> 
 
-<span style="color:blue">**04 May 2023**</span>
+<span style="color:blue">**04 Mayo 2023**</span>
 
 <img src="1 Workshop.png" style="zoom:110%;" />
 
