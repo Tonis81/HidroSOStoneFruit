@@ -162,4 +162,3 @@ A) Fila de árboles; B) Inserción de tapón; C) Barrillo tubo
 >
 > [Indicadores](https://drive.google.com/drive/folders/1qNdLvMNeX8Q6Xf-Tbb9YdibZUUtcCXiD?usp=share_link)
 >
-> 
