@@ -36,7 +36,7 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 
 
-[PildoraJuly2023](https://www.youtube.com/watch?v=uKKxtsho8IE&list=PLClKgnzRFYe6sCogMRFFPCBc_cqVeoe2K&index=2)
+[Huella hídrica ¿Cómo se instala una sonda de humedad de suelo?](https://www.youtube.com/watch?v=uKKxtsho8IE&list=PLClKgnzRFYe6sCogMRFFPCBc_cqVeoe2K&index=2)
 
 <br/>
 
