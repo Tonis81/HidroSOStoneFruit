@@ -28,6 +28,22 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <br/>
 
+<span style="color:red">**Huella hídrica ¿Cómo se instala una sonda de humedad de suelo?**</span> 
+
+<span style="color:blue">**04 Julio 2023**</span>
+
+<img src="PildoraJuly2023.png" style="zoom:110%;" />
+
+
+
+[PildoraJuly2023](https://www.youtube.com/watch?v=uKKxtsho8IE&list=PLClKgnzRFYe6sCogMRFFPCBc_cqVeoe2K&index=2)
+
+<br/>
+
+---
+
+<br/>
+
 <span style="color:red">**Análisis sensorial de los albaricoques**</span> 
 
 <span style="color:blue">**16 Mayo 2023**</span>
@@ -161,4 +177,3 @@ A) Fila de árboles; B) Inserción de tapón; C) Barrillo tubo
 > [Agradecimientos](https://drive.google.com/file/d/1u8ZiokyU7YGBqFYsj6mZOvPZUL5kvQgW/view?usp=share_link)
 >
 > [Indicadores](https://drive.google.com/drive/folders/1qNdLvMNeX8Q6Xf-Tbb9YdibZUUtcCXiD?usp=share_link)
->
