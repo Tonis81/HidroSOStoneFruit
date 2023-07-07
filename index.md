@@ -28,6 +28,20 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <br/>
 
+<span style="color:red">**Análisis de contenido de elementos minerales en muestras de albaricoque**</span> 
+
+<span style="color:blue">**05 Julio 2023**</span>
+
+<img src="ICP-MS.png" style="zoom:110%;" />
+
+
+
+<br/>
+
+---
+
+<br/>
+
 <span style="color:red">**Huella hídrica ¿Cómo se instala una sonda de humedad de suelo?**</span> 
 
 <span style="color:blue">**04 Julio 2023**</span>
