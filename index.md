@@ -28,13 +28,23 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <br/>
 
+<span style="color:red">**Poda de los albaricoqueros**</span> 
+
+<span style="color:blue">**17 Agosto 2023**</span>
+
+<img src="Poda.png" style="zoom:110%;" />
+
+<br/>
+
+---
+
+<br/>
+
 <span style="color:red">**Análisis de contenido de elementos minerales en muestras de albaricoque**</span> 
 
 <span style="color:blue">**05 Julio 2023**</span>
 
 <img src="ICP-MS.png" style="zoom:110%;" />
-
-
 
 <br/>
 
