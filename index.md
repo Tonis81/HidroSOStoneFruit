@@ -32,6 +32,8 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <span style="color:blue">**15 Noviembre 2023**</span>
 
+La Dra. Francisca Hernández y el Dr. Alejandro Galindo presentaron una ponencia titulada "Estrategias de riego HidroSOStenibles en frutales de hueso" en el Webinar Internacional "Sostenibilidad Agroalimentaria y Ambiental: Estrategias Avanzadas y Técnicas Innovadoras”. Este evento fue organizado por la Escuela Superior Politécnica de Chimborazo, a través del Decanato de Investigaciones y el Grupo Asociado de Investigación en Biotecnología, Ambiente y Química (GAIBAQ) de la Facultad de Ciencias de Ecuador.
+
 <img src="UMH-ESPOCH.png" style="zoom:110%;" />
 
 <br/>
