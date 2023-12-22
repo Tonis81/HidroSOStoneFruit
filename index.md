@@ -28,6 +28,22 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <br/>
 
+<span style="color:red">**Anuncio:  I WORKSHOP: ESTRATEGIAS HIDROSOSTENIBLES EN FRUTALES DE HUESO. 11 enero 2024 9:00 – 12:00 Salón de actos de la EPSO (UMH)**</span> 
+
+<span style="color:blue">**20 Diciembre 2023**</span>
+
+<img src="I Workshop.png" style="zoom:110%;" />
+
+
+
+<br/>
+
+---
+
+<br/>
+
+
+
 <span style="color:red">**Participación en Congreso Internacional organizado por la Escula Superior Politécnica de Chimborazo, Ecuador**</span> 
 
 <span style="color:blue">**15 Noviembre 2023**</span>
