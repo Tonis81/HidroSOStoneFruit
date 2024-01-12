@@ -22,6 +22,20 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 * *2º año*: 01 de septiembre 2023 al 31 agosto 2024. 
 * *3er año*: 01 septiembre 2024 al 29 junio 2025.
 
+
+
+<br/>
+
+---
+
+<br/>
+
+<span style="color:red">**I WORKSHOP: ESTRATEGIAS HIDROSOSTENIBLES EN FRUTALES DE HUESO. 11 enero 2024 9:00 – 12:00 Salón de actos de la EPSO (UMH)**</span> 
+
+<span style="color:blue">**11 Enero 2024**</span>
+
+<img src="I Seminario Agroalnext.png" style="zoom:110%;" />
+
 <br/>
 
 ---
