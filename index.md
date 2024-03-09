@@ -30,6 +30,18 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <br/>
 
+<span style="color:red">**Representantes del proyecto HidroSOStenibles participan en el congreso AGROALNEXT de 6-8 de marzo celebrado en Gandía **</span> 
+
+<img src="Congreso.png" style="zoom:110%;" />
+
+
+
+<br/>
+
+---
+
+<br/>
+
 <span style="color:red">**I WORKSHOP: ESTRATEGIAS HIDROSOSTENIBLES EN FRUTALES DE HUESO. 11 enero 2024 9:00 – 12:00 Salón de actos de la EPSO (UMH)**</span> 
 
 <span style="color:blue">**11 Enero 2024**</span>
