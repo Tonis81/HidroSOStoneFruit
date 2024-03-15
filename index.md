@@ -30,7 +30,7 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <br/>
 
-<span style="color:red">**La parcela experimental del proyecto @HidroSOStoneFruit está en floración. ¡Fotos espectaculares! **</span>
+<span style="color:red">**La parcela experimental del proyecto @HidroSOStoneFruit está en floración. ¡Fotos espectaculares!**</span>
 
 <span style="color:blue">**10 Marzo 2024**</span> 
 
