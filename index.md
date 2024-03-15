@@ -30,6 +30,18 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <br/>
 
+<span style="color:red">**La parcela experimental del proyecto @HidroSOStoneFruit está en floración. ¡Fotos espectaculares! **</span>
+
+<span style="color:blue">**10 Marzo 2024**</span> 
+
+<img src="Floracion.png" style="zoom:110%;" />
+
+<br/>
+
+---
+
+<br/>
+
 <span style="color:red">**Representantes del proyecto HidroSOStenibles participan en el congreso AGROALNEXT de 6-8 de marzo celebrado en Gandía **</span>
 
 <span style="color:blue">**6-8 Marzo 2024**</span> 
