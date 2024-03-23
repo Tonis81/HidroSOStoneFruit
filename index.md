@@ -30,6 +30,18 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <br/>
 
+<span style="color:red">**Jornadas de Ciencias Hortícolas 2024 - Cartagena**</span>
+
+<span style="color:blue">**22 Marzo 2024**</span> 
+
+<img src="Jornadas Horticultura.png" style="zoom:110%;" />
+
+<br/>
+
+---
+
+<br/>
+
 <span style="color:red">**La parcela experimental del proyecto @HidroSOStoneFruit está en floración. ¡Fotos espectaculares!**</span>
 
 <span style="color:blue">**10 Marzo 2024**</span> 
