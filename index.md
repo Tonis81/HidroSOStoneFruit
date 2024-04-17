@@ -30,6 +30,18 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <br/>
 
+<span style="color:red">**Detalle medida conductancia estomática**</span>
+
+<span style="color:blue">**15 Abril 2024**</span> 
+
+<img src="Conductacia estomatica.png" style="zoom:110%;" />
+
+<br/>
+
+---
+
+<br/>
+
 <span style="color:red">**Jornadas de Ciencias Hortícolas 2024 - Cartagena**</span>
 
 <span style="color:blue">**22 Marzo 2024**</span> 
