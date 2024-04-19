@@ -30,6 +30,22 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <br/>
 
+<span style="color:red">**Técnicos de la empresa AGROSEGURO visitaron la parcela experimental del proyecto @HidroSOStoneFruit acompañados por el investigador Alejando Galindo**</span>
+
+<span style="color:blue">**18 Abril 2024**</span> 
+
+<img src="AGROSEGURO.jpeg" style="zoom:110%;" />
+
+
+
+
+
+<br/>
+
+---
+
+<br/>
+
 <span style="color:red">**Detalle medida conductancia estomática**</span>
 
 <span style="color:blue">**15 Abril 2024**</span> 
