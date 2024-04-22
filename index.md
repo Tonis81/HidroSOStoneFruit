@@ -216,7 +216,7 @@ La Dra. Francisca Hernández y el Dr. Alejandro Galindo presentaron una ponencia
 
 <br/>
 
-<span style="color:red">**Recoleción de los melocotones**</span> 
+<span style="color:red">**Recoleción de los albaricoques**</span> 
 
 <span style="color:blue">**12 Mayo 2023**</span>
 
