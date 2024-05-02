@@ -30,6 +30,20 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <br/>
 
+<span style="color:red">**Anuncio Taller - Workshop**</span>
+
+<span style="color:blue">**26 Abril 2024**</span> 
+
+<img src="Taller.png" style="zoom:110%;" />
+
+
+
+<br/>
+
+---
+
+<br/>
+
 <span style="color:red">**Reunión investigadores del proyecto**</span>
 
 <span style="color:blue">**26 Abril 2024**</span> 
