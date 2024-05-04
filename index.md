@@ -34,6 +34,8 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <img src="II workshop.png" style="zoom:110%;" />
 
+[Acceso a las presentaciones](https://drive.google.com/drive/folders/1iDrZqSbAKn40H3S_QkNem_m4wwgfTp-f?usp=sharing)
+
 <br/>
 
 ---
