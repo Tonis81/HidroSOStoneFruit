@@ -28,7 +28,7 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <br/>
 
-<span style="color:red">**Anuncio Taller - Workshop**</span>
+<span style="color:red">**II Workshop**</span>
 
 <span style="color:blue">**03 Mayo 2024**</span> 
 
