@@ -28,6 +28,20 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <br/>
 
+<span style="color:red">**Difusión - Noticia UMH**</span>
+
+<span style="color:blue">**06 Mayo 2024**</span> 
+
+<img src="NoticiaUMH.png" style="zoom:110%;" />
+
+
+
+<br/>
+
+---
+
+<br/>
+
 <span style="color:red">**II Workshop**</span>
 
 <span style="color:blue">**03 Mayo 2024**</span> 
