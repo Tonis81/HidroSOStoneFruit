@@ -22,6 +22,28 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 * *2º año*: 01 de septiembre 2023 al 31 agosto 2024. 
 * *3er año*: 01 septiembre 2024 al 29 junio 2025.
 
+
+
+
+
+<br/>
+
+---
+
+<br/>
+
+<span style="color:red">**Entrevista a la Prof. Francisca Hernández en Radio UMH**</span>
+
+<span style="color:blue">**07 Mayo 2024**</span> 
+
+<img src="Radio UMH.png" style="zoom:110%;" />
+
+
+
+
+
+[Enlace a la entrevista](https://radio.umh.es/files/2024/05/070524-Podcast-INFORMATIOS-UMH.mp3)
+
 <br/>
 
 ---
