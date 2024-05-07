@@ -34,7 +34,7 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <img src="NoticiaUMH.png" style="zoom:110%;" />
 
-
+[Enlace a la noticia](https://comunicacion.umh.es/2024/05/06/investigadores-de-la-umh-trabajan-en-el-desarrollo-de-un-cultivo-de-albaricoques-de-alta-calidad-que-requiera-menos-agua-para-su-riego/)
 
 <br/>
 
