@@ -24,7 +24,21 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 
 
+<br/>
 
+---
+
+<br/>
+
+<span style="color:red">**Noticia COIL**</span>
+
+<span style="color:blue">**09 Mayo 2024**</span> 
+
+
+
+<img src="Noticia COIL.png" style="zoom:110%;" />
+
+[Enlace a la noticia](https://www.coial.org/especial-sequia-6-plantas-resistentes-a-la-sequia-y-sanidad-vegetal-en-peligro-por-la-proliferacion-de-plagas/)
 
 <br/>
 
