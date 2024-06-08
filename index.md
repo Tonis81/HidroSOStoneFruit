@@ -30,6 +30,20 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <br/>
 
+<span style="color:red">**Nueva Publicación dentro del marco del proyecto**</span>
+
+<span style="color:blue">**08 Junio 2024**</span> 
+
+<img src="Review Paper.png" style="zoom:110%;" />
+
+
+
+<br/>
+
+---
+
+<br/>
+
 <span style="color:red">**Noticia COIL - El Colegio Oficial de Agrónomos de Levante**</span>
 
 <span style="color:blue">**09 Mayo 2024**</span> 
