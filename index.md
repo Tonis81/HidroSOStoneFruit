@@ -36,7 +36,7 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <img src="Review Paper.png" style="zoom:110%;" />
 
-
+[Acceso al artículo](https://www.mdpi.com/2073-4395/14/6/1219)
 
 <br/>
 
