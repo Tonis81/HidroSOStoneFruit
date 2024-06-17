@@ -3,7 +3,6 @@
 <img src="Logos.png" style="zoom:100%;" />
 
 
-
 # <span style="color:black">**Estrategias hidroSOStenibles en frutales de hueso: Caso a estudio el albaricoquero (HidroSOStoneFruit)**</span> 
 
 <img src="Albaricoque.png" style="zoom:25%;" />
@@ -21,6 +20,11 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 * *1er año*: 01 de septiembre 2022 al 31 agosto 2023. 
 * *2º año*: 01 de septiembre 2023 al 31 agosto 2024. 
 * *3er año*: 01 septiembre 2024 al 29 junio 2025.
+
+<br/>
+
+<img src="Conductancia.png" style="zoom:50%;" />
+[Acceso repositorio GitHub](https://github.com/Tonis81/Data_HidroSOStoneFruit)
 
 <br/>
 
