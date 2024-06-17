@@ -24,7 +24,7 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 <br/>
 
 <img src="Git.png" style="zoom:20%;" />
-[Acceso repositorio GitHub](https://github.com/Tonis81/Data_HidroSOStoneFruit)
+Acceso al repositorio de GitHub disponible tras solicitud
 
 <br/>
 
