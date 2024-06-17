@@ -23,7 +23,7 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 <br/>
 
-<img src="Conductancia.png" style="zoom:50%;" />
+<img src="Git.png" style="zoom:50%;" />
 [Acceso repositorio GitHub](https://github.com/Tonis81/Data_HidroSOStoneFruit)
 
 <br/>
