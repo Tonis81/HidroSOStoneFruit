@@ -1,6 +1,6 @@
 # HidroSOStoneFruit
 
-<img src="Logos.png" style="zoom:100%;" />
+<img src="Logo.png" style="zoom:100%;" />
 
 
 # <span style="color:black">**Estrategias hidroSOStenibles en frutales de hueso: Caso a estudio el albaricoquero (HidroSOStoneFruit)**</span> 
