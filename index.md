@@ -26,6 +26,26 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 <img src="Git.png" style="zoom:20%;" />
 Acceso al repositorio de GitHub disponible tras solicitud
 
+
+<br/>
+
+---
+
+<br/>
+
+
+<span style="color:blue">**20 Noviembre 2024**</span> 
+
+<img src="Sostenibilidad.png" style="zoom:110%;" />
+
+Para más detalles ver página 519 del documento completo que se puede descargar en:
+
+[Descargar opción 1](https://drive.google.com/file/d/1xvwk47rffRu042bfszlUkanWf8DWYuiL/view?usp=sharing)
+
+[Descargar opción 2](https://www.poscosecha.com/biblioteca)
+
+[Descargar opción 3](https://www.poscosecha.com/biblioteca/publicaciones/sostenibilidad-hidrica-en-horticultura-y-poscosecha)
+
 <br/>
 
 ---
