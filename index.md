@@ -34,6 +34,22 @@ Acceso al repositorio de GitHub disponible tras solicitud
 <br/>
 
 
+<span style="color:blue">**23 Noviembre 2024**</span> 
+
+<img src="Presentación Alejandro.png" style="zoom:110%;" />
+
+Presentación proyecto: Estrategias HidroSOStenibles en frutales de hueso: Caso a estudio albaricoquero por el Dr. Alejandro Galindo
+
+[Acceso al video](https://www.youtube.com/watch?v=RCIN_nA3VxU)
+
+
+<br/>
+
+---
+
+<br/>
+
+
 <span style="color:blue">**20 Noviembre 2024**</span> 
 
 <img src="Sostenibilidad.png" style="zoom:110%;" />
