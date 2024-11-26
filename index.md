@@ -26,6 +26,21 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 <img src="Git.png" style="zoom:20%;" />
 Acceso al repositorio de GitHub disponible tras solicitud
 
+<br/>
+
+---
+
+<br/>
+
+
+<span style="color:blue">**26 Noviembre 2024**</span> 
+
+<img src="horticulturae2024.png" style="zoom:110%;" />
+
+Nueva publicación: 
+
+[Enhancing ‘Mirlo Rojo’ Apricot (Prunus armeniaca L.) Quality Through Regulated Deficit Irrigation: Effects on Antioxidant Activity, Fatty Acid Profile, and Volatile Compounds](https://www.mdpi.com/2311-7524/10/12/1253)
+
 
 <br/>
 
