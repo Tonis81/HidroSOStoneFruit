@@ -35,6 +35,28 @@ Acceso al repositorio de GitHub disponible tras solicitud
 
 <span style="color:blue">**26 Noviembre 2024**</span> 
 
+[El IMIDA recibió el pasado viernes, 22 de noviembre, la visita de alumnado de tercero del Grado en Ingeniería Agroalimentaria y de Sistemas Biológicos de la Universidad Politécnica de Cartagena](https://www.imida.es/web/imida/-/grado-en-ingenieria-agroalimentaria-y-de-sistemas-biologicos-de-la-upct)
+
+<img src="Alejandro_1.png" style="zoom:110%;" />
+
+<img src="Alejandro_2.png" style="zoom:110%;" />
+
+<img src="Alejandro_3.png" style="zoom:110%;" />
+
+<img src="Alejandro_4.png" style="zoom:110%;" />
+
+<img src="Alejandro_5.png" style="zoom:110%;" />
+
+
+<br/>
+
+---
+
+<br/>
+
+
+<span style="color:blue">**26 Noviembre 2024**</span> 
+
 <img src="horticulturae2024.png" style="zoom:110%;" />
 
 Nueva publicación: 
