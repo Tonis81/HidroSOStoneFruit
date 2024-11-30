@@ -56,6 +56,20 @@ Acceso al repositorio de GitHub disponible tras solicitud
 <br/>
 
 
+<span style="color:blue">**28-29 Noviembre 2024**</span> 
+
+<img src="ARSENCIA-Agroalnext.png" style="zoom:110%;" />
+
+[Jornadas ARSENCIA-AGROALNEXT Workshop](https://tonis81.github.io/Jornadas_ARSENCIA_2024/)
+
+
+<br/>
+
+---
+
+<br/>
+
+
 <span style="color:blue">**26 Noviembre 2024**</span> 
 
 <img src="horticulturae2024.png" style="zoom:110%;" />
