@@ -19,7 +19,8 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 
 * *1er año*: 01 de septiembre 2022 al 31 agosto 2023. 
 * *2º año*: 01 de septiembre 2023 al 31 agosto 2024. 
-* *3er año*: 01 septiembre 2024 al 29 junio 2025.
+* *3er año*: 01 septiembre 2024 al 29 junio 2025. Ampliación plazo ejecución hasta 31 diciembre 2025.
+
 
 <br/>
 
