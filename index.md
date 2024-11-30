@@ -27,6 +27,21 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 <img src="Git.png" style="zoom:20%;" />
 Acceso al repositorio de GitHub disponible tras solicitud
 
+
+<br/>
+
+---
+
+<br/>
+
+
+<span style="color:blue">**28-29 Noviembre 2024**</span> 
+
+<img src="ARSENCIA-Agroalnext.png" style="zoom:110%;" />
+
+[Jornadas ARSENCIA-AGROALNEXT Workshop](https://tonis81.github.io/Jornadas_ARSENCIA_2024/)
+
+
 <br/>
 
 ---
@@ -47,20 +62,6 @@ Acceso al repositorio de GitHub disponible tras solicitud
 <img src="Alejandro_4.png" style="zoom:110%;" />
 
 <img src="Alejandro_5.png" style="zoom:110%;" />
-
-
-<br/>
-
----
-
-<br/>
-
-
-<span style="color:blue">**28-29 Noviembre 2024**</span> 
-
-<img src="ARSENCIA-Agroalnext.png" style="zoom:110%;" />
-
-[Jornadas ARSENCIA-AGROALNEXT Workshop](https://tonis81.github.io/Jornadas_ARSENCIA_2024/)
 
 
 <br/>
