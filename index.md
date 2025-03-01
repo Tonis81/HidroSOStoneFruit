@@ -27,6 +27,19 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 <img src="Git.png" style="zoom:20%;" />
 Acceso al repositorio de GitHub disponible tras solicitud
 
+<br/>
+
+---
+
+<br/>
+
+
+<span style="color:blue">**26-28 Febrero 2025**</span> 
+
+<img src="Congreso Agroalmext.png" style="zoom:110%;" />
+
+[CONGRESO AGROALNEXT “AGROALNEXT2025: INNOVACION Y TRASFERENCIA EN EL SECTOR AGROLIMENTARIO ESPAÑOL”](https://congresoagroalnext.umh.es/)
+
 
 <br/>
 
