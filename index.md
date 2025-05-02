@@ -47,6 +47,19 @@ Acceso al repositorio de GitHub disponible tras solicitud
 
 <br/>
 
+<span style="color:red">**Evaluación del número de yemas presentes**</span>
+
+<span style="color:blue">**24 Marzo 2025**</span> 
+
+<img src="Conteo yemas.png" style="zoom:110%;" />
+
+
+<br/>
+
+---
+
+<br/>
+
 <span style="color:blue">**26-28 Febrero 2025**</span> 
 
 <img src="Congreso Agroalmext.png" style="zoom:110%;" />
