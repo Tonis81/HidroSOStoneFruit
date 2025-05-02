@@ -47,11 +47,13 @@ Acceso al repositorio de GitHub disponible tras solicitud
 
 <br/>
 
-<span style="color:red">**Evaluación del número de yemas presentes**</span>
+<span style="color:red">**Evaluación del número de yemas presentes y floración**</span>
 
 <span style="color:blue">**24 Marzo 2025**</span> 
 
 <img src="Conteo yemas.png" style="zoom:110%;" />
+
+<img src="Floracion.png" style="zoom:110%;" />
 
 
 <br/>
