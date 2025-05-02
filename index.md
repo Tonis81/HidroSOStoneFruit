@@ -27,12 +27,25 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 <img src="Git.png" style="zoom:20%;" />
 Acceso al repositorio de GitHub disponible tras solicitud
 
+
 <br/>
 
 ---
 
 <br/>
 
+<span style="color:red">**Evaluación del estado en que se encuentra la fruta**</span>
+
+<span style="color:blue">**25 Abril 2025**</span> 
+
+<img src="Estado fruto.png" style="zoom:110%;" />
+
+
+<br/>
+
+---
+
+<br/>
 
 <span style="color:blue">**26-28 Febrero 2025**</span> 
 
@@ -170,8 +183,6 @@ Para más detalles ver página 519 del documento completo que se puede descargar
 <span style="color:red">**Noticia COIL - El Colegio Oficial de Agrónomos de Levante**</span>
 
 <span style="color:blue">**09 Mayo 2024**</span> 
-
-
 
 <img src="Noticia COIL.png" style="zoom:110%;" />
 
