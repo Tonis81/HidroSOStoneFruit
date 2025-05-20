@@ -27,6 +27,17 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 <img src="Git.png" style="zoom:20%;" />
 Acceso al repositorio de GitHub disponible tras solicitud
 
+<br/>
+
+---
+
+<br/>
+
+<span style="color:red">**Recogida de fruta**</span>
+
+<span style="color:blue">**19 Mayo 2025**</span> 
+
+<img src="RecogirdaFruta2025.png" style="zoom:110%;" />
 
 <br/>
 
