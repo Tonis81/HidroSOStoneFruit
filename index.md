@@ -27,6 +27,21 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 <img src="Git.png" style="zoom:20%;" />
 Acceso al repositorio de GitHub disponible tras solicitud
 
+
+<br/>
+
+---
+
+<br/>
+
+
+<span style="color:blue">**9-12 Junio 2025**</span> 
+
+<img src="Horticolas.png" style="zoom:110%;" />
+
+Investigadores del proyecto participan en el Congreso Nacional de Ciencias Hortícolas.
+
+
 <br/>
 
 ---
