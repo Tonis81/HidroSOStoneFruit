@@ -35,6 +35,21 @@ Acceso al repositorio de GitHub disponible tras solicitud
 
 <span style="color:blue">**11 Noviembre 2025**</span> 
 
+<img src="Ruvid.png" style="zoom:110%;" />
+
+AGROALNEXT impulsa a la transformación del sector agroalimentario español.
+
+[Fuente](https://www.imida.es/-/visita-de-la-acronym-title-universidad-politecnica-de-valencia-upct-acronym-del-viernes-pasado-al-acronym-title-instituto-murciano-de-investigacion-y-)
+
+
+<br/>
+
+---
+
+<br/>
+
+<span style="color:blue">**11 Noviembre 2025**</span> 
+
 <img src="Visita UPCT.png" style="zoom:110%;" />
 
 El IMIDA recibió el pasado viernes, 7 de noviembre, la visita de estudiantes de tercer curso del Grado en Ingeniería Agroalimentaria y de Sistemas Biológicos de la Universidad Politécnica de Cartagena (UPCT).
