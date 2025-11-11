@@ -39,7 +39,7 @@ Acceso al repositorio de GitHub disponible tras solicitud
 
 AGROALNEXT impulsa a la transformación del sector agroalimentario español.
 
-[Fuente](https://www.imida.es/-/visita-de-la-acronym-title-universidad-politecnica-de-valencia-upct-acronym-del-viernes-pasado-al-acronym-title-instituto-murciano-de-investigacion-y-)
+[Fuente](https://ruvid.org/agroalnext-impulsa-a-la-transformacion-del-sector-agroalimentario-espanol/)
 
 
 <br/>
