@@ -27,6 +27,19 @@ El  objetivo global de esta expresión de interés se centra en el estudio y  op
 <img src="Git.png" style="zoom:20%;" />
 Acceso al repositorio de GitHub disponible tras solicitud
 
+<br/>
+
+---
+
+<br/>
+
+<span style="color:blue">**11 Noviembre 2025**</span> 
+
+<img src="Visita UPCT.png" style="zoom:110%;" />
+
+El IMIDA recibió el pasado viernes, 7 de noviembre, la visita de estudiantes de tercer curso del Grado en Ingeniería Agroalimentaria y de Sistemas Biológicos de la Universidad Politécnica de Cartagena (UPCT).
+
+[Estudiantes de tercer curso del Grado en Ingeniería Agroalimentaria y de Sistemas Biológicos de la UPCT](https://www.imida.es/-/visita-de-la-acronym-title-universidad-politecnica-de-valencia-upct-acronym-del-viernes-pasado-al-acronym-title-instituto-murciano-de-investigacion-y-)
 
 <br/>
 
